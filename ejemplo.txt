@@ -1,0 +1,18 @@
+principal(){
+    v++;
+    entero a = 1;
+
+    repi¿te{
+        a = a + 1;
+    }hasta(a == 10);
+
+    entero n;
+    cin >>> n;
+    lista de entero arr = [1,2,3];
+
+    arr ++ 1 @ 0 
+
+    real suma(entero n1, entero n2){
+        devuelve  n1 + n2;
+    }
+}
